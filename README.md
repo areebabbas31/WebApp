@@ -1,1 +1,1 @@
-Pipeline for .net core 7 App
+Pipeline for .net core 7 App New
